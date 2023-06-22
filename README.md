@@ -1,7 +1,7 @@
-## awesome-hello-world
+## Awesome Hello World
 Hello world in all languages
 
-# ABAP
+## ABAP
 
 ```ABAP
 
