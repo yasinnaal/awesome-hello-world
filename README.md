@@ -17,10 +17,14 @@ WRITE 'Hello World! ABAP'.
 ## Python 
 
 ```Python 
+"in Python, strings are enclosed inside single quotes, double quotes, or triple quotes."
 
 print('Hello world! Python')
 
+print("Hello world! Python")
+
 print('''Hello world! Python''')
+
 
 ```
 
