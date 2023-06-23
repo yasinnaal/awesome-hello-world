@@ -80,7 +80,9 @@ func main() {
 	fmt.Println("Hello World GO !")
 }
 
-# C++
+```
+
+## C++
 ```C++
 // C++ program to display "Hello World"
 
