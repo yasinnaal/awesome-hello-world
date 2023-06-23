@@ -29,7 +29,7 @@ print('''Hello world! Python''')
 
 ```
 
-# HTML
+## HTML
 
 ```HTML
 <!DOCTYPE html>
@@ -41,7 +41,7 @@ print('''Hello world! Python''')
 </html>
 ```
 
-# Java Script
+## Java Script
 
 ```HTML
 <!DOCTYPE html>
@@ -54,4 +54,18 @@ print('''Hello world! Python''')
 </body>
 </html>
 ```
+
+## Java
+
+```
+public class Helloworld3 
+{
+    public static void main (String[] args)
+    {
+        System.out.println("Hello World Java !");
+    }    
+}          
+
+```
+
 
