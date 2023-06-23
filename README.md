@@ -108,3 +108,10 @@ static void Main(string[] args)
 }
 
 ```
+
+##TypeScript
+
+```ts
+let message: string = 'Hello, World!';
+console.log(message);
+```
