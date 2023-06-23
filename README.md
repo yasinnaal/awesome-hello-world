@@ -84,7 +84,6 @@ func main() {
 
 ## C++
 ```C++
-// C++ program to display "Hello World"
 
 using namespace std;
 
