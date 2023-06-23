@@ -46,15 +46,11 @@ print('''Hello world! Python''')
 ```HTML
 <!DOCTYPE html>
 <html lang="en">
-<head>
-
-</head>
+<head></head>
 <body>
-
     <script>    
      document.write('Hello world! Java Script');
     </script>
-
 </body>
 </html>
 ```
