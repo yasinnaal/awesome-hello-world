@@ -115,3 +115,10 @@ static void Main(string[] args)
 let message: string = 'Hello, World!';
 console.log(message);
 ```
+## Rust
+
+```Rust
+fn main() {
+    println!("Hello, world Rust !");
+}
+```
