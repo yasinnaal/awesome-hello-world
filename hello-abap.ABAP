@@ -1,4 +1,4 @@
 
 REPORT zhello_abap.
 
-WRITE 'Hello World! ABAP'.
+WRITE 'Hello World ABAP !'.
