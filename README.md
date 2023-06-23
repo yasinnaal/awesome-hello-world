@@ -31,7 +31,7 @@ print('''Hello world! Python''')
 
 # Java Script
 
-```html
+```HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
