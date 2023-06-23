@@ -72,7 +72,6 @@ public class Helloworld3
 
 ```GO
 package main
-
 import "fmt";
 
 // Main function
