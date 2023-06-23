@@ -109,7 +109,7 @@ static void Main(string[] args)
 
 ```
 
-##TypeScript
+## TypeScript
 
 ```ts
 let message: string = 'Hello, World!';
