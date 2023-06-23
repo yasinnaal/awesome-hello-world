@@ -112,7 +112,7 @@ static void Main(string[] args)
 ## TypeScript
 
 ```ts
-let message: string = 'Hello, World!';
+let message: string = 'Hello World TypeScript!';
 console.log(message);
 ```
 ## Rust
