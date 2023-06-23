@@ -122,3 +122,8 @@ fn main() {
     println!("Hello, world Rust !");
 }
 ```
+
+## Ruby
+```
+puts "Hello World Ruby !"
+```
