@@ -124,6 +124,6 @@ fn main() {
 ```
 
 ## Ruby
-```
+```Ruby
 puts "Hello World Ruby !"
 ```
