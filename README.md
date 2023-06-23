@@ -20,11 +20,11 @@ WRITE 'Hello World! ABAP'.
 
 #in Python, strings are enclosed inside single quotes, double quotes, or triple quotes.
 
-print('Hello world! Python')
+print('Hello world Python !')
 
-print("Hello world! Python")
+print("Hello world Python !")
 
-print('''Hello world! Python''')
+print('''Hello world Python !''')
 
 
 ```
@@ -36,7 +36,7 @@ print('''Hello world! Python''')
 <html lang="en">
   <head> </head>
   <body>
-    <p>Hello world! HTML</p>
+    <p>Hello world HTML !</p>
   </body>
 </html>
 ```
@@ -49,7 +49,7 @@ print('''Hello world! Python''')
 <head></head>
 <body>
     <script>    
-     document.write('Hello world! Java Script');
+     document.write('Hello world Java Script !');
     </script>
 </body>
 </html>
