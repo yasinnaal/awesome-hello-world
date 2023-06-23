@@ -57,7 +57,7 @@ print('''Hello world! Python''')
 
 ## Java
 
-```
+```JAVA
 public class Helloworld3 
 {
     public static void main (String[] args)
