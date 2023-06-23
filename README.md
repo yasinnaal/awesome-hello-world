@@ -31,7 +31,7 @@ print('''Hello world! Python''')
 
 # HTML
 
-```
+```HTML
 <!DOCTYPE html>
 <html lang="en">
   <head> </head>
