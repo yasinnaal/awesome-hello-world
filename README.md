@@ -29,6 +29,18 @@ print('''Hello world! Python''')
 
 ```
 
+# HTML
+
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head> </head>
+  <body>
+    <p>Hello world! HTML</p>
+  </body>
+</html>
+```
+
 # Java Script
 
 ```HTML
