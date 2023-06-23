@@ -29,3 +29,21 @@ print('''Hello world! Python''')
 
 ```
 
+# Java Script
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+</head>
+<body>
+
+    <script>    
+     document.write('Hello world! Java Script');
+    </script>
+
+</body>
+</html>
+```
+
