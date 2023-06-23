@@ -101,6 +101,10 @@ int main()
 
 ```C#
 
-Console.WriteLine("Hello world C# !");
+static void Main(string[] args)
+{
+    Console.WriteLine("Hello world C# !");
+
+}
 
 ```
